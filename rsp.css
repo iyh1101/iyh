@@ -1,0 +1,12 @@
+#rpc_result_picture {
+    width: 1500px;
+    height: 750px;
+    background-color: gray;
+}
+
+#rpc_result_screen {
+    margin: auto;
+    width: 222px;
+    height: 100px;
+    background-color: wheat;
+}
